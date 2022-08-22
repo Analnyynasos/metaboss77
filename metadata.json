@@ -1,0 +1,44 @@
+{
+  "name": "Oak Paradise #2126",
+  "symbol": "OAK",
+  "description": "It is always darkest before the dawn.",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/yBCKkpDDiPgHByGPMoJ5uWX3S-IF1VSd4rs-wmG60fs",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Volcano Burst"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clouds"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Iron Scales"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Demon"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
